@@ -1,7 +1,7 @@
 # Open-Lab-02.09
 (6 XP) A function that unifies first name and last name into a single string.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Names.cs`.
 4. Implement the method `ConcatName(string firstName, string lastName)` that formats first name and last name into a single string in a format `lastName, firstName`.
